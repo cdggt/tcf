@@ -109,3 +109,5 @@ Group '/tcf'
         Dataset 'vz'
 ```
 
+# License
+The data content of this project itself is licensed under the [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/), and the underlying source code used to read and display that content is licensed under the [MIT license](LICENSE.txt).
