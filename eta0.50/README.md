@@ -1,5 +1,5 @@
 # Exact Coherent Structures calculated in turbulent Taylor-Couette flow
-Library of Exact Coherent Structures (ECSs) found in turbulent Taylor-Couette flow (TCF). The datasets stored in this repository compliment the following paper(s): http://arxiv.org/abs/2105.02126. 
+Library of Exact Coherent Structures (ECSs) found in turbulent Taylor-Couette flow (TCF). The datasets stored in this repository compliment the following paper(s): https://doi.org/10.1017/jfm.2021.522, http://arxiv.org/abs/2105.02126. 
 
 Folder `state-files` contains the TCF ECS state files in HDF5 file format. MATLAB functions are provided in folder `utils/` that can read the TCF HDF5 state files into MATLAB. 
 
@@ -40,7 +40,7 @@ ans =
 
        nr: 33
        nz: 49
-       nt: 129
+       nt: 128
         r: [1×33 double]
         t: [1×128 double]
         z: [1×49 double]
